@@ -35,7 +35,7 @@ Je suis activement à la recherche d’un poste qui me permettra de :
 
 ## 🤝 Me contacter  
 
-🐙 GitHub : [mika-dev-pro](https://github.com/mika-dev-pro)  
+🐙 GitLab : [mika.dev](https://www.gitlab.com/mika.dev)  
 🔗 LinkedIn : [Michaël Benattou](https://www.linkedin.com/in/michaël-benattou/)  
 
 ---
